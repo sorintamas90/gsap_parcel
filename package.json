@@ -1,0 +1,18 @@
+\n
+  "name": "testing_gsap_and_parcel",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": \n
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": \n
+    "gsap": "^3.12.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": \n
+    "process": "^0.11.10"
+  }
+}
